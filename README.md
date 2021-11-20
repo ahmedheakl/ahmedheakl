@@ -17,10 +17,10 @@ I am currently working on creating a state-of-the-art Deep Learning Parallel CNN
 <br />
 
 <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedheakl&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedheakl&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 [linkedin]: https://www.linkedin.com/in/ahmed-heakl-a45448148/
