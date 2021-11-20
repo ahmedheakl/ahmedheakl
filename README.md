@@ -18,7 +18,7 @@ I am currently working on creating a state-of-the-art Deep Learning Parallel CNN
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedheakl&count_private=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedheakl&count_private=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl)](https://github.com/anuraghazra/github-readme-stats)
 
 
