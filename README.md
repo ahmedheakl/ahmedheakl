@@ -16,6 +16,13 @@ I am currently working on creating a state-of-the-art Deep Learning Parallel CNN
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ahmedheakl&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [linkedin]: https://www.linkedin.com/in/ahmed-heakl-a45448148/
 [Facebook]: https://www.facebook.com/ahmed.heakl.5/
