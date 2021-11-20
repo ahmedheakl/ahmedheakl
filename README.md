@@ -4,7 +4,6 @@
 - 👀 I’m interested in Machine Learning/Web Development/Mobile Development
 - 🌱 I’m currently learning Generative Models for Classification Enhancement
 - 👯 I’m looking to collaborate with other researchers in the field of DL
-- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me: My email ahmed.heakl@ejust.edu.eg
 
 <br />
