@@ -2,13 +2,13 @@
 
 - 👋 Hi, I’m @ahmedheakl
 - 👀 I’m interested in Machine Learning/Web Development/Mobile Development
-- 🌱 I’m currently learning Generative Models for Classification Enhancement
-- 👯 I’m looking to collaborate with other researchers in the field of DL
+- 🌱 I’m currently learning Advanced Generative models using Encoder-Decoder Architectures
+- 👯 I’m looking to collaborate with other researchers in the field of Deep Learning
 - 📫 How to reach me: My email ahmed.heakl@ejust.edu.eg
 
 <br />
 
-I am currently working on creating a state-of-the-art Deep Learning Parallel CNN/RNN model for Music Genre Classification using FMA dataset.
+I am currently working on developing a virtual try-on deep learning model for edge devices.
 
 ---
 
