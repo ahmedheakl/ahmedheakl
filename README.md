@@ -2,21 +2,20 @@
 
 - 👋 Hi, I’m @ahmedheakl
 - 👀 I’m interested in Machine Learning/Web Development/Mobile Development
-- 🌱 I’m currently learning Advanced Generative models using Encoder-Decoder Architectures
+- 🌱 I’m currently learning musical generative models using stable diffusion.
 - 👯 I’m looking to collaborate with other researchers in the field of Deep Learning
-- 📫 How to reach me: My email ahmed.heakl@ejust.edu.eg
 
 <br />
 
-I am currently working on developing a virtual try-on deep learning model for edge devices.
+I am currently working on developing a robot navigation system using multi-level reinforcement learning. 
 
+
+
+[![Gmail Badge](https://img.shields.io/badge/-ahmed.heakl@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.heakl@ejust.edu.eg)](mailto:ahmed.heakl@ejust.edu.eg)
+
+[![Linkedin Badge](https://img.shields.io/badge/-ahmedheakl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-heakl/)](https://www.linkedin.com/in/ahmed-heakl/)
 ---
 
-### Connect with me:
-[<img align="left" alt="ahmedheakl | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="ahmedheakl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ---
 
@@ -25,7 +24,9 @@ I am currently working on developing a virtual try-on deep learning model for ed
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
