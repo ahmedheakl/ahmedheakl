@@ -12,7 +12,6 @@ I am currently working on developing a robot navigation system using multi-level
 
 
 [![Gmail Badge](https://img.shields.io/badge/-ahmed.heakl@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.heakl@ejust.edu.eg)](mailto:ahmed.heakl@ejust.edu.eg)
-
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedheakl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-heakl/)](https://www.linkedin.com/in/ahmed-heakl/)
 ---
 
