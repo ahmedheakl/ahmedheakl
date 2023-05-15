@@ -2,13 +2,13 @@
 
 - 👋 Hi, I’m @ahmedheakl
 - 👀 I’m interested in Machine Learning/Web Development/Mobile Development
-- 🌱 I’m currently learning musical generative models using stable diffusion.
+- 🌱 I’m currently learning musical generative models using stable diffusion 🎼.
 - 👯 I’m looking to collaborate with other researchers in the field of Deep Learning
 - 📰 Checkout my latest publish paper: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/document/9892651/)
 
 <br />
 
-I am currently working on developing a robot navigation system using multi-level reinforcement learning. 
+I am currently working on developing a robot navigation system using multi-level reinforcement learning [highrl](https://github.com/ahmedheakl/multi-level-rl-for-robotics) 🤖, and a python library to automate computer vision algorithms on drones [dronevis](https://github.com/ahmedheakl/drone-vis) 👾. 
 
 
 
