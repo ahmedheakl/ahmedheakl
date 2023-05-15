@@ -1,8 +1,9 @@
 ## I'm a Machine Learning, Deep Learning, Web, and Mobile Developer!!
 
-- 👋 Hi, I’m @ahmedheakl
-- 👀 I’m interested in Machine Learning/Web Development/Mobile Development
+- 👋 Hi, I’m [@ahmedheakl](https://www.linkedin.com/in/ahmed-heakl/)
+- 👀 I’m interested in Machine Learning 🧠, Web Development 🌐, Mobile Development 📱
 - 🌱 I’m currently learning musical generative models using stable diffusion 🎼.
+- 👨‍💼 I'm currently working a software engineer at a Japanese Company 🇯🇵 [And Africa Co, Ltd](https://www.linkedin.com/company/and-africa-co-ltd) 🌍 .
 - 👯 I’m looking to collaborate with other researchers in the field of Deep Learning
 - 📰 Checkout my latest publish paper: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/document/9892651/)
 
