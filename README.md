@@ -20,7 +20,8 @@ I am currently working on developing a robot navigation system using multi-level
 ---
 
 &nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedheakl&count_private=true&theme=cobalt)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
