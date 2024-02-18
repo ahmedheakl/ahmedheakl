@@ -10,7 +10,7 @@
 
 <br />
 
-I am currently working on developing a robot navigation system using multi-level reinforcement learning [highrl](https://github.com/ahmedheakl/multi-level-rl-for-robotics) 🤖, developing text-to-SQL models for automating business analysis, decompiling binary code to source code using LLMs, scalable last-mile delivery with vehicle route optimization, and streamlining sales agents for middleware corporates. 
+I am currently working on developing a robot navigation system using multi-level reinforcement learning [highrl](https://github.com/ahmedheakl/multi-level-rl-for-robotics) 🤖, developing text-to-SQL models for automating business analysis, decompiling binary code into source code using LLMs [Decompilation](https://github.com/ahmedheakl/decompilation), scalable last-mile delivery with vehicle route optimization [Logi-IQ](https://web.logi-iq.com/), and streamlining sales agents for middleware corporates. 
 
 
 
