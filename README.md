@@ -2,14 +2,15 @@
 
 - 👋 Hi, I’m [@ahmedheakl](https://www.linkedin.com/in/ahmed-heakl/)
 - 👀 I’m interested in Machine Learning 🧠, Web Development 🌐, Mobile Development 📱
-- 🌱 I’m currently learning musical generative models using stable diffusion 🎼.
+- 🌱 I’m currently learning multi-modal generative models using stable diffusion 🎼.
 - 👨‍💼 I'm employed as a full-time software engineer at a Japanese Company 🇯🇵 [And Africa Co, Ltd](https://www.linkedin.com/company/and-africa-co-ltd) 🌍 .
 - 👯 I’m looking to collaborate with other researchers in the field of Deep Learning
-- 📰 Checkout my latest publish paper: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/document/9892651/)
+- 📰 Checkout my latest publish paper: [AraSpider: Democratizing Arabic-to-SQL](https://arxiv.org/abs/2402.07448)
+- 📰 Checkout my latest Python packages: [DroneVis](https://github.com/ahmedheakl/drone-vis) 👾.
 
 <br />
 
-I am currently working on developing a robot navigation system using multi-level reinforcement learning [highrl](https://github.com/ahmedheakl/multi-level-rl-for-robotics) 🤖, and a python library to automate computer vision algorithms on drones [dronevis](https://github.com/ahmedheakl/drone-vis) 👾. 
+I am currently working on developing a robot navigation system using multi-level reinforcement learning [highrl](https://github.com/ahmedheakl/multi-level-rl-for-robotics) 🤖, developing text-to-SQL models for automating business analysis, decompiling binary code to source code using LLMs, scalable last-mile delivery with vehicle route optimization, and streamlining sales agents for middleware corporates. 
 
 
 
