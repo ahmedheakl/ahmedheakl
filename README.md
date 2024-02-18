@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine Learning 🧠, Web Development 🌐, Mobile Development 📱
 - 🌱 I’m currently learning multi-modal generative models using stable diffusion 🎼.
 - 👨‍💼 I'm employed as a full-time software engineer at a Japanese Company 🇯🇵 [And Africa Co, Ltd](https://www.linkedin.com/company/and-africa-co-ltd) 🌍 .
-- 👯 I’m looking to collaborate with other researchers in the field of Deep Learning
+- 👯 I’m always looking to collaborate with other researchers in the field of Deep Learning
 - 📰 Checkout my latest publish paper: [AraSpider: Democratizing Arabic-to-SQL](https://arxiv.org/abs/2402.07448)
 - 📰 Checkout my latest Python packages: [DroneVis](https://github.com/ahmedheakl/drone-vis) 👾.
 
