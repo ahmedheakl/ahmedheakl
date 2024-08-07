@@ -3,14 +3,15 @@
 - 👋 Hi, I’m [@ahmedheakl](https://www.linkedin.com/in/ahmed-heakl/)
 - 👀 I’m interested in Machine Learning 🧠, Web Development 🌐, Mobile Development 📱
 - 🌱 I’m currently learning multi-modal generative models using stable diffusion 🎼.
-- 👨‍💼 I'm employed as a full-time software engineer at a Japanese Company 🇯🇵 [And Africa Co, Ltd](https://www.linkedin.com/company/and-africa-co-ltd) 🌍 .
+- 👨‍💼 I'm employed as a full-time machine learning engineer at an American Company 🇯🇵 [Monta AI](https://www.monta.ai/) 🌍 .
 - 👯 I’m always looking to collaborate with other researchers in the field of Deep Learning
-- 📰 Checkout my latest publish paper: [AraSpider: Democratizing Arabic-to-SQL](https://arxiv.org/abs/2402.07448)
+- 📰 Checkout my latest publish paper: [ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
+](https://arxiv.org/abs/2406.18120)
 - 📰 Checkout my latest Python packages: [DroneVis](https://github.com/ahmedheakl/drone-vis) 👾.
 
 <br />
 
-I am currently working on developing a robot navigation system using multi-level reinforcement learning [highrl](https://github.com/ahmedheakl/multi-level-rl-for-robotics) 🤖, developing text-to-SQL models for automating business analysis, decompiling binary code into source code using LLMs [Decompilation](https://github.com/ahmedheakl/decompilation), scalable last-mile delivery with vehicle route optimization [Logi-IQ](https://web.logi-iq.com/), and streamlining sales agents for middleware corporates. 
+I am currently working on developing a an Arabic handwritten recongnition system using multimodal models, developing text-to-SQL models for automating business analysis, decompiling binary code into source code using LLMs [Decompilation](https://github.com/ahmedheakl/decompilation), scalable last-mile delivery with vehicle route optimization [Logi-IQ](https://web.logi-iq.com/), and streamlining sales agents for middleware corporates. 
 
 
 
