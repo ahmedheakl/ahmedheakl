@@ -3,7 +3,7 @@
 - 👋 Hi, I’m [@ahmedheakl](https://www.linkedin.com/in/ahmed-heakl/)
 - 👀 I’m interested in Machine Learning 🧠, Web Development 🌐, Mobile Development 📱
 - 🌱 I’m currently learning multi-modal generative models using stable diffusion 🎼.
-- 👨‍💼 I'm employed as a full-time machine learning engineer at an American Company 🇯🇵 [Monta AI](https://www.monta.ai/) 🌍 .
+- 👨‍💼 I'm employed as a full-time machine learning engineer at an American Company 🇺🇸 [Monta AI](https://www.monta.ai/) 🌍 .
 - 👯 I’m always looking to collaborate with other researchers in the field of Deep Learning
 - 📰 Checkout my latest publish paper: [ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
 ](https://arxiv.org/abs/2406.18120)
