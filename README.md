@@ -16,6 +16,7 @@ I am currently working on developing a an Arabic handwritten recongnition system
 
 
 [![Gmail Badge](https://img.shields.io/badge/-ahmed.heakl@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.heakl@ejust.edu.eg)](mailto:ahmed.heakl@ejust.edu.eg)
+[![Gmail Badge](https://img.shields.io/badge/-ahmed.heakl@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Ahmed.Heakl@mbzuai.ac.ae)](mailto:Ahmed.Heakl@mbzuai.ac.ae)
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedheakl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-heakl/)](https://www.linkedin.com/in/ahmed-heakl/)
 ---
 
