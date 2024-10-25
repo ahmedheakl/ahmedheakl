@@ -5,13 +5,12 @@
 - 🌱 I’m currently learning multi-modal generative models using stable diffusion 🎼.
 - 👨‍💼 I'm employed as a full-time machine learning engineer at an American Company 🇺🇸 [Monta AI](https://www.monta.ai/) 🌍 .
 - 👯 I’m always looking to collaborate with other researchers in the field of Deep Learning
-- 📰 Checkout my latest publish paper: [ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs
-](https://arxiv.org/abs/2406.18120)
+- 📰 Checkout my latest publish paper: [CAMEL-Bench: A Comprehensive Arabic LMM Benchmark](https://arxiv.org/abs/2410.18976)
 - 📰 Checkout my latest Python packages: [DroneVis](https://github.com/ahmedheakl/drone-vis) 👾.
 
 <br />
 
-I am currently working on developing a an Arabic handwritten recongnition system using multimodal models, developing text-to-SQL models for automating business analysis, decompiling binary code into source code using LLMs [Decompilation](https://github.com/ahmedheakl/decompilation), scalable last-mile delivery with vehicle route optimization [Logi-IQ](https://web.logi-iq.com/), and streamlining sales agents for middleware corporates. 
+I am currently working on developing a an Arabic multimodal models [CAMEL-Bench](https://github.com/mbzuai-oryx/Camel-Bench), reinforcement learning for multiple vehicles optimizations [VRP Benchmark](https://github.com/ahmedheakl/vrp-benchmarks), assembly translation using LLMs [Asm2asm](https://github.com/ahmedheakl/asm2asm), scalable last-mile delivery with vehicle route optimization [Logi-IQ](https://web.logi-iq.com/), and streamlining sales agents for middleware corporates. 
 
 
 
