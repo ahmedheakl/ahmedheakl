@@ -1,16 +1,16 @@
 ## I'm a Machine Learning, Deep Learning, Web, and Mobile Developer!!
 
 - 👋 Hi, I’m [@ahmedheakl](https://www.linkedin.com/in/ahmed-heakl/)
-- 👀 I’m interested in Machine Learning 🧠, Web Development 🌐, Mobile Development 📱
-- 🌱 I’m currently learning multi-modal generative models using stable diffusion 🎼.
-- 👨‍💼 I'm employed as a full-time machine learning engineer at an American Company 🇺🇸 [Monta AI](https://www.monta.ai/) 🌍 .
+- 👀 I’m interested in Computer Vision 🧠, NLP 🌐, Software Engineering 📱
+- 🌱 I’m currently learning GUI agents 🎼.
+- 👨‍💼 I'm employed as a full-time Research Scientist at a German Lab 🇩🇪 [Parameter Lab](https://www.parameterlab.de/) 🌍 .
 - 👯 I’m always looking to collaborate with other researchers in the field of Deep Learning
-- 📰 Checkout my latest publish paper: [AIN: The Arabic INclusive Large Multimodal Model](https://arxiv.org/abs/2502.00094)
+- 📰 Checkout my latest publish paper: [CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark](https://arxiv.org/abs/2505.16968)
 - 📰 Checkout my latest Python packages: [DroneVis](https://github.com/ahmedheakl/drone-vis) 👾.
 
 <br />
 
-I am currently working on developing a an Arabic multimodal models [CAMEL-Bench](https://github.com/mbzuai-oryx/Camel-Bench), [AIN](https://arxiv.org/abs/2502.00094), reinforcement learning for multiple vehicles optimizations [VRP Benchmark](https://github.com/ahmedheakl/vrp-benchmarks), assembly translation using LLMs [Asm2asm](https://github.com/ahmedheakl/asm2asm), scalable last-mile delivery with vehicle route optimization [Logi-IQ](https://web.logi-iq.com/), and streamlining sales agents for middleware corporates. 
+I am currently working on developing a an OCR models [KITAB-Bench](https://arxiv.org/abs/2502.14949), Multilingual Models [AIN](https://arxiv.org/abs/2502.00094), reinforcement learning for multiple vehicles optimizations [SVRPBench](https://arxiv.org/abs/2505.21887v1), and GPU-to-GPU translation using LLMs [CASS](https://arxiv.org/abs/2505.16968).
 
 
 
