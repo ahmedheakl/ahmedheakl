@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GUI agents 🎼.
 - 👨‍💼 I'm employed as a full-time Research Scientist at a German Lab 🇩🇪 [Parameter Lab](https://www.parameterlab.de/) 🌍 .
 - 👯 I’m always looking to collaborate with other researchers in the field of Deep Learning
-- 📰 Checkout my latest publish paper: [CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark](https://arxiv.org/abs/2505.16968)
+- 📰 Checkout my latest publish paper: [Dr.LLM: Dynamic Layer Routing in LLMs](https://arxiv.org/abs/2510.12773)
 - 📰 Checkout my latest Python packages: [DroneVis](https://github.com/ahmedheakl/drone-vis) 👾.
 
 <br />
