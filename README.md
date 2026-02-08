@@ -10,7 +10,7 @@
 
 <br />
 
-I am currently working on developing efficienty-accurate LLM [Dr.LLM](https://arxiv.org/abs/2510.12773), OCR models [KITAB-Bench](https://arxiv.org/abs/2502.14949), Multilingual Models [AIN](https://arxiv.org/abs/2502.00094), reinforcement learning for multiple vehicles optimizations [SVRPBench](https://arxiv.org/abs/2505.21887v1), and GPU-to-GPU translation using LLMs [CASS](https://arxiv.org/abs/2505.16968).
+I am currently working on developing efficient-accurate LLMs [Dr.LLM](https://arxiv.org/abs/2510.12773), OCR models [KITAB-Bench](https://arxiv.org/abs/2502.14949), Multilingual Models [AIN](https://arxiv.org/abs/2502.00094), reinforcement learning for multiple vehicles optimizations [SVRPBench](https://arxiv.org/abs/2505.21887v1), and GPU-to-GPU translation using LLMs [CASS](https://arxiv.org/abs/2505.16968).
 
 
 
