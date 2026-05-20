@@ -1,4 +1,4 @@
-## I'm a Machine Learning, Deep Learning, Web, and Mobile Developer!!
+## AI Research × Software Engineering 🚀
 
 - 👋 Hi, I’m [@ahmedheakl](https://www.linkedin.com/in/ahmed-heakl/)
 - 🎓 PhD student in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/), advised by [Prof. Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en) and [Prof. Fahad Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en)
